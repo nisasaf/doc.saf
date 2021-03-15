@@ -19,30 +19,7 @@ And i recommend you to login first to Github account before push your project. D
 </ul>
   
   *note: the italic words above means you could change it.
-  <hr>
   
-  <h2>Set up Laravel project after cloned from Github</h2>
-  There are two ways to get started. It depends on your current condition.
-
-  <h3>If you already close your terminal after cloning the project, follow this way</h3>
-  1. Open your cloned local project.
-  2. Make sure you've created the database for your cloned project. If not, please create it first.
-  3. Back to your cloned local project, copy an <b><i>.env.example</i></b> file and paste at the same path. 
-  4. Rename the file as <b><i>.env</i></b>
-  5. Then, right click wherever and choose GitBash here.
-  6. Type <b>composer install</b> click and enter to install the vendor folder.
-  7. After the installation process is complete, type <b>php artisan key:generate</b> and click enter.
-  8. Type <b>php artisan migrate</b> to make a migration.
-  9. Then, type <b>php artisan db:seed</b>.
-  10. Done. Now you can run your cloned project by type <b>php artisan serve</b> in terminal.
-
-  <h3>If you just cloned and not close your terminal, follow this way</h3>
-  1. Type <b>composer install</b> click and enter to install the vendor folder.
-  2. After the installation process is complete, type <b>php artisan key:generate</b> and click enter.
-  3. Type <b>php artisan migrate</b> to make a migration.
-  4. Then, type <b>php artisan db:seed</b>.
-  5. Done. Now you can run your cloned project by type <b>php artisan serve</b> in terminal.
-  
-  <b>FINISH.</b>
+  <b>FINISH</b>
   
   (see you in another update here.)
