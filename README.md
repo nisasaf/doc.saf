@@ -21,9 +21,8 @@ And i recommend you to login first to Github account before push your project. D
 *note: the italic words above means you could change it.
 
 <h2>Set up Laravel project after cloned from Github</h2>
-There are two ways to get started. It depends on the conditions of your cloning project.
-
-
+*There are two ways to get started. It depends on the conditions of your cloning project.
+  
 *If you already close your terminal after cloning the project, follow this way.
 1. Open your cloned local project.
 2. Make sure you've created the database for your cloned project. If not, please create it first.
@@ -42,6 +41,14 @@ There are two ways to get started. It depends on the conditions of your cloning 
 3. Type <b>php artisan migrate</b> to make a migration.
 4. Then, type <b>php artisan db:seed</b>.
 5. Done. Now you can run your cloned project by type <b>php artisan serve</b> in terminal.
+
+<h2>Set upstream branch in Github</h2>
+*Make sure you've forked the project to your GitHub account and clone it to your local repo.
+
+1. Open your cloned local project that you've forked.
+2. Right click wherever and choose GitBash here.
+3. Type <b>git remote -v</b> to see the current configured remote repository of your fork.
+4. -c
 
 <b>FINISH</b>
   
