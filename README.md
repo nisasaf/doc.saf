@@ -23,7 +23,6 @@ And i recommend you to login first to Github account before push your project. D
 <h2>Set up Laravel project after cloned from Github</h2>
 There are two ways to get started. It depends on your current condition.
 
-<h3>If you already close your terminal after cloning the project, follow this way</h3>
 1. Open your cloned local project.< 2. Make sure you've created the database for your cloned project. If not, please create it first.
 3. Back to your cloned local project, copy an <b><i>.env.example</i></b> file and paste at the same path. 
 4. Rename the file as <b><i>.env</i></b>
