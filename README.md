@@ -28,7 +28,7 @@ And i recommend you to login first to Github account before push your project. D
 3. Back to your cloned local project, copy an <b><i>.env.example</i></b> file and paste at the same path. 
 4. Rename the file as <b><i>.env</i></b>
 5. Then, right click wherever and select GitBash here.
-6. Type <b>composer install</b> click and enter to install the vendor folder.
+6. Type <b>composer install</b> and enter to install the vendor folder.
 7. After the installation process is complete, type <b>php artisan key:generate</b> and click enter.
 8. Type <b>php artisan migrate</b> to make a migration.
 9. Then, type <b>php artisan db:seed</b>.
