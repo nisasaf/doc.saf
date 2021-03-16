@@ -9,13 +9,13 @@ And i recommend you to login first to Github account before push your project. D
 1. Right click to your selected project folder.
 2. Select Git Bash here.
 3. Type these commands gradually:
-> <ul>
+```
     git init
     git add *
-    git commit -m "<i>commit</i>"
-    git remote add origin https ://github.com/<i>yourUsername</i>/<i>yourRepository</i>.git
+    git commit -m "commit"
+    git remote add origin https://github.com/yourUsername/yourRepository.git
     git push origin master
-  </ul>  
+````  
     
 *note: the italic words above means you could change it.
 
