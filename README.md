@@ -10,11 +10,11 @@ And i recommend you to login first to Github account before push your project. D
 2. Select Git Bash here.
 3. Type these commands gradually:
 > <ul>
-    <li>git init</li>
-    <li>git add *</li>
-    <li>git commit -m "<i>commit</i>"</li>
-    <li>git remote add origin https ://github.com/<i>yourUsername</i>/<i>yourRepository</i>.git</li>
-    <li>git push origin master</li
+    git init
+    git add *
+    git commit -m "<i>commit</i>"
+    git remote add origin https ://github.com/<i>yourUsername</i>/<i>yourRepository</i>.git
+    git push origin master
   </ul>  
     
 *note: the italic words above means you could change it.
