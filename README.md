@@ -44,11 +44,13 @@ And i recommend you to login first to Github account before push your project. D
 <h2>Set upstream branch in Github</h2>
 *Make sure you've forked the project to your GitHub account and clone it to your local repo.
 
-1. First, clone the forked project by type <b>php artisan clone <i>https://github.com/<b>your_username</b>/<b>file_name</b>.git
+1. First, clone the forked project by type <b>php artisan clone</b> <i>https://,span></span>github.com/<b>your_username</b>/<b>file_name</b>.git</i>
 3. Then, open your cloned local project that you've forked.
 4. Right click wherever and select GitBash here.
-5. Type <b>git remote -v</b> to see the current configured remote repository of your fork.
-6. -c
+5. Type <b>git remote -v</b> to see the current configured remote repository of your fork. The result should be: 
+   <span><b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git</b> (fetch)</span>
+   <span><b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git</b> (push)</span>
+7. 
 
 <b>FINISH</b>
   
