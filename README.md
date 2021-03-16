@@ -9,7 +9,6 @@ And i recommend you to login first to Github account before push your project. D
 1. Right click to your selected project folder.
 2. Select Git Bash here.
 3. Type these commands gradually:
-4. jk
 <ul>
   <li>git init</li>
   <li>git add *</li>
@@ -28,7 +27,7 @@ And i recommend you to login first to Github account before push your project. D
 2. Make sure you've created the database for your cloned project. If not, please create it first.
 3. Back to your cloned local project, copy an <b><i>.env.example</i></b> file and paste at the same path. 
 4. Rename the file as <b><i>.env</i></b>
-5. Then, right click wherever and choose GitBash here.
+5. Then, right click wherever and select GitBash here.
 6. Type <b>composer install</b> click and enter to install the vendor folder.
 7. After the installation process is complete, type <b>php artisan key:generate</b> and click enter.
 8. Type <b>php artisan migrate</b> to make a migration.
@@ -46,7 +45,7 @@ And i recommend you to login first to Github account before push your project. D
 *Make sure you've forked the project to your GitHub account and clone it to your local repo.
 
 1. Open your cloned local project that you've forked.
-2. Right click wherever and choose GitBash here.
+2. Right click wherever and select GitBash here.
 3. Type <b>git remote -v</b> to see the current configured remote repository of your fork.
 4. -c
 
