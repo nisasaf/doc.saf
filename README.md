@@ -17,7 +17,7 @@ And i recommend you to login first to Github account before push your project. D
     git push origin master
 ````  
     
-*note: the italic words above means you could change it.
+*note: that <b>commit</b> word could changed with your own commit message.
 
 <h2>Set up Laravel project after cloned from Github</h2>
 *There are two ways to get started. It depends on the conditions of your cloning project.
