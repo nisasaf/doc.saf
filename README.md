@@ -4,7 +4,7 @@ Literally it's my personal documentation based on my experiences during learn ab
 
 <h2>How to upload your project to Github repository</h2>
 *Make sure that your project has been put together in one folder and you had installed Git in your computer.
-And i recommend you to login first to Github account before push your project. Don't forget to creat new repository for your project.
+And i recommend you to login first to Github account before push your project. Don't forget to create new repository for your project.
 
 1. Right click to your selected project folder.
 2. Select Git Bash here.
