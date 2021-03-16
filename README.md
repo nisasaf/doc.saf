@@ -14,8 +14,8 @@ And i recommend you to login first to Github account before push your project. D
   <li>git add *</li>
   <li>git commit -m "<i>commit</i>"</li>
   <li>git remote add origin https ://github.com/<i>yourUsername</i>/<i>yourRepository</i>.git</li>
-  <li>git push origin master</li>
-</ul>
+  <li>git push origin master</li
+</ul>  
 
 *note: the italic words above means you could change it.
 
@@ -47,8 +47,8 @@ And i recommend you to login first to Github account before push your project. D
 1. First, clone the forked project by type <b>php artisan clone</b> <i>https://,span></span>github.com/<b>your_username</b>/<b>file_name</b>.git</i>
 3. Then, open your cloned local project that you've forked.
 4. Right click wherever and select GitBash here.
-5. Type <b>git remote -v</b> to see the current configured remote repository of your fork. The result should be: 
-   > <b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git (fetch)
+5. Type <b>git remote -v</b> to see the current configured remote repository of your fork. The result should be:  
+   > <b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git (fetch)  
    > <b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git (push)
 7. 
 
