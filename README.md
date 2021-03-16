@@ -9,7 +9,7 @@ And i recommend you to login first to Github account before push your project. D
 1. Right click to your selected project folder.
 2. Select Git Bash here.
 3. Type these commands gradually:
-<ul>
+> <ul>
   <li>git init</li>
   <li>git add *</li>
   <li>git commit -m "<i>commit</i>"</li>
@@ -48,8 +48,8 @@ And i recommend you to login first to Github account before push your project. D
 3. Then, open your cloned local project that you've forked.
 4. Right click wherever and select GitBash here.
 5. Type <b>git remote -v</b> to see the current configured remote repository of your fork. The result should be: 
-   <span><b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git</b> (fetch)</span>
-   <span><b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git</b> (push)</span>
+   > <b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git (fetch)
+   > <b>origin https://<span></span>github.com/<i>your_username</i>/<i>your_file</i>.git (push)
 7. 
 
 <b>FINISH</b>
